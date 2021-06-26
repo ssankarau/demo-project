@@ -4,6 +4,7 @@
 package demo.project;
 
 public class App {
+    public int Age;
     public String getGreeting() {
         return "Hello World!";
     }
